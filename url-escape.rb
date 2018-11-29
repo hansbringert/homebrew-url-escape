@@ -1,4 +1,4 @@
-class url-escape < Formula
+class UrlEscape < Formula
   desc "url-escape  CLI"
   homepage "https://bitbucket.org/infomaker/"
   url  "https://s3-eu-west-1.amazonaws.com/open-content-artifacts/url-escape/url-escape-0.1.tar.gz"
