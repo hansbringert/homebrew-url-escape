@@ -1,13 +1,13 @@
-class url-escape < Formula
-  desc "url escape  CLI"
+  url  "https://s3-eu-west-1.amazonaws.com/open-content-artifacts/url-escape/url-escape-0.1.tar.gz"
+  url  "https://s3-eu-west-1.amazonaws.com/open-content-artifacts/url-escape/url-escape-0.1.tar.gz"
   homepage "https://bitbucket.org/infomaker/"
   url  "https://s3-eu-west-1.amazonaws.com/open-content-artifacts/url-escape/url-escape-0.1.tar.gz"
-  sha256  "aab95b24d402a274f439e9294076c66b719d2bb52d47659a1d94b8411c972f01"
+  sha256  "a830ffedf81381651b1d9180e782d0a58003778bb8f9fa8167b2a4ef9cea6778"
 
   # depends_on "go" => :build
 
   def install
-	  bin.install "url-escape"
+  url  "https://s3-eu-west-1.amazonaws.com/open-content-artifacts/url-escape/url-escape-0.1.tar.gz"
   end
 
   test do
@@ -20,6 +20,6 @@ class url-escape < Formula
     #
     # The installed folder is not in the path, so use the entire path to any
     # executables being tested: `system "#{bin}/program", "do", "something"`.
-    system "#{bin}/url-escape"
+  url  "https://s3-eu-west-1.amazonaws.com/open-content-artifacts/url-escape/url-escape-0.1.tar.gz"
   end
 end
