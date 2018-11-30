@@ -2,7 +2,7 @@ class UrlEscape < Formula
   desc "url-escape  CLI"
   homepage "https://bitbucket.org/infomaker/"
   url  "https://s3-eu-west-1.amazonaws.com/open-content-artifacts/url-escape/url-escape-0.5.tar.gz"
-  sha256  "406ad91706ffa006bc6d8b6f2b1e98ed142dd55afd081a0929fd6a3d4887412d"
+  sha256  "54419b346821dd2f23492d4436b4e6c98d916c52fbee89c8fbf4a4a346f269f8"
 
   # depends_on "go" => :build
 
